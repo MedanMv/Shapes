@@ -7,7 +7,7 @@ switch = False # x
 
 font = cv2.FONT_HERSHEY_DUPLEX
 
-image = cv2.imread('https://imgur.com/a/g1tT1Kb') # https://imgur.com/a/g1tT1Kb - Ссылка на фото
+image = cv2.imread('./7Ptkifa.png') # https://imgur.com/a/g1tT1Kb - Ссылка на фото
 
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
